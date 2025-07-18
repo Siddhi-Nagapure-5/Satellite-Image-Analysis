@@ -70,14 +70,12 @@ jupyter notebook satellite-imagery-analysis-using-python.ipynb
 
 ## 🧪 Sample Outputs
 
-Here are some example outputs from the analysis:
+<img width="1920" height="1080" alt="Screenshot 2025-07-01 000524" src="https://github.com/user-attachments/assets/1bc56aac-bd3d-4128-ac75-750c8f06be89" />
+<img width="1920" height="966" alt="Screenshot 2025-07-01 000455" src="https://github.com/user-attachments/assets/ca91ad60-1bba-459b-99d7-b44340666050" />
+<img width="1885" height="1065" alt="Screenshot 2025-07-01 000414" src="https://github.com/user-attachments/assets/1324f6fe-79d0-4d56-8035-d6746a29373c" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-01 000332" src="https://github.com/user-attachments/assets/700acd16-ffc4-4ea6-bb26-45e1f3e54756" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-01 000252" src="https://github.com/user-attachments/assets/253368bd-62e3-4606-928f-d86e0bde2971" />
 
-* ✅ Input satellite image
-* 🎯 Color-based segmentation/clustering
-* 🌍 Classified regions highlighted
-* 📉 Graphs or histograms (if implemented)
-
-*Add screenshots of the result plots here!*
 
 ---
 
