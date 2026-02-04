@@ -1,6 +1,6 @@
 # 🚀️ Satellite Imagery Analysis using Python
 
-This project demonstrates a basic implementation of **Satellite Image Analysis** using Python. It involves loading, preprocessing, and analyzing satellite images to identify regions or classify land use based on color, shape, or texture.
+This project demonstrates a Final implementation of **Satellite Image Analysis** using Python. It involves loading, preprocessing, and analyzing satellite images to identify regions or classify land use based on color, shape, or texture.
 
 > 📁 This project is built using a Jupyter Notebook and is perfect for educational demonstrations, small-scale analysis, and beginner-level satellite data exploration.
 
